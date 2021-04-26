@@ -1,5 +1,5 @@
 from com.atlassian.jira.component import ComponentAccessor
-
+//wqwqwqwq
 issueFactory = ComponentAccessor.getIssueFactory()
 issueManager = ComponentAccessor.getIssueManager()
 issueLinkManager = ComponentAccessor.getIssueLinkManager()
