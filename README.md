@@ -14,7 +14,6 @@ My favorite color:
 
 > [COLOR NAME]
 
-Thank you so much for reading! ☺
 1212
 1212
 1212
